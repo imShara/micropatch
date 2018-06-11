@@ -1,0 +1,19 @@
+{
+  "name": "micropatch",
+  "version": "1.0.0",
+  "description": "Smallest diff-patch format for use in javascript [39,9,'son']. Even in CLI",
+  "main": "micropatch.js",
+  "keywords": [
+    "diff",
+    "patch",
+    "smallest",
+    "delta",
+    "format",
+    "json"
+  ],
+  "author": "Shara",
+  "license": "MIT",
+  "dependencies": {
+    "diff-match-patch": "^1.0.1"
+  }
+}

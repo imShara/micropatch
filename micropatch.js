@@ -107,7 +107,7 @@ switch (process.argv.length) {
       throw err
     }
     break
-  case 2:
+  case 3:
     const stdin = process.openStdin()
     let input = ''
 
